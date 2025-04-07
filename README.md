@@ -2,7 +2,9 @@
 **Full Stack Developer | DevOps Enthusiast | IoT Engineer**  
 
 📫 Reach me: **203659.msa@gmail.com**  
+
 🌍 Egypt, Giza  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mohamedwaleed77)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFFFFF?style=flat&logo=leetcode)](https://leetcode.com/u/mohamedwaleed77)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome)](https://mohamedwaleed77.github.io)
@@ -26,8 +28,5 @@
 - **Certifications**: Cybersecurity, Machine Learning, Embedded Systems  
 
 ---
-
-📊 **GitHub Stats**:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedwaleed77&show_icons=true&theme=dark)  
 
 🌟 **Let's connect and build something amazing!**  
