@@ -13,7 +13,7 @@
 
 ## 🛠️ Technical Skills  
 - **Frontend**: React, Redux, Next.js, Tailwind, i18next  
-- **Backend**: Node.js, Express, NestJS, Socket.io  
+- **Backend**: Node.js, Express, NestJS, Socket.io, FastAPI
 - **DevOps**: Docker, Jenkins, Kubernetes, Prometheus, Grafana  
 - **IoT & Embedded**: AVR, FreeRTOS, ARM, ESP32, Embedded C  
 - **Databases**: MongoDB, MySQL, Redis, Sequelize  
