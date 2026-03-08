@@ -23,7 +23,7 @@
 ---
 
 ## 📚 Education & Certifications  
-- **B.Eng in Engineering** – University of Greenwich (GPA: 3.42)  
+- **B.Eng in Engineering** – University of Greenwich (GPA: 3.45)  
 - **Diplomas**: CCNA, Full Stack Development, PMP, RHCSA  
 - **Certifications**: Cybersecurity, Machine Learning, Embedded Systems  
 
